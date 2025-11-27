@@ -121,8 +121,9 @@ The project bridges cricket passion with data science fundamentals — perfect f
 - **LinkedIn Post:** [View Project on LinkedIn](https://www.linkedin.com/in/bhanu-prasad-reddy-b1431b282/)  
 
 ---
-
-## 📚 References
-1. [IPL Official Website – Statistics & Records](https://www.iplt20.com/)  
-2. [Microsoft Excel Documentation](https://support.microsoft.com/en-us/excel)  
-3. [GitHub – Version Control Platform](https://github.com/)
+```javascript
+if (isAwesome) {
+  // thanks in advance :p
+  starThisRepository();
+}
+```
